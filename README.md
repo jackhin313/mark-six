@@ -1,2 +1,4 @@
 # mark-six
-It is a website using HTML, CSS and Javascript to generate a set of random mark six numbers
+This is a website for generating a set of random mark six numbers  
+It is made of HTML, CSS and Javascript  
+This is the website URL: https://jackhin313.github.io/mark-six/
